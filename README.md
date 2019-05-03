@@ -8,7 +8,7 @@ Due by 9am on May 13th
 - Create a landing page where a user should be able to input a valid git username and submit it.
 
 - After submitting the username, two lists should be displayed: 
-    - The most recent repositories (repos) that forked by the username provided
+    - The most recent repositories (repos) forked by the username provided
     - their most recent pull requests.
 
 - Each of the forked repos should display the name of that repo as a link. When clicked, this should link to the base repo.
